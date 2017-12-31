@@ -1,0 +1,3 @@
+[submodule "CCC"]
+	path = CCC
+	url = https://github.com/xiaoyanbot/CCC.git
